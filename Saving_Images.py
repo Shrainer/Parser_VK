@@ -41,7 +41,8 @@ while post_number != 42857:
     if(author == "Денис Дудушкин"): counter+= 1
     post_number+= 1
     print(post_number)
-print(counter)
+
+#комментарий для теста atom git gui
 
 #133 Слава Карелин
 #62 Денис Дудушкин
