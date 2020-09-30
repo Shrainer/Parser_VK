@@ -43,6 +43,7 @@ while post_number != 42857:
     print(post_number)
 
 #комментарий для теста atom git gui
+#username
 
 #133 Слава Карелин
 #62 Денис Дудушкин
